@@ -22,7 +22,7 @@ The Swift Programming Language (5.9.2) 스터디 저장소🖥️
     ex. cyndii/Netflix
 - 공식문서 예제코드 제출은 다음과 같은 폴더 구조를 따릅니다.
   - `이름`/`n차 정리`<br>
-    ex. 서정연/1차 정리
+    ex. jiwon/1차 정리
 <br>
 
 ## Commit 규칙
