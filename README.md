@@ -55,4 +55,4 @@ The Swift Programming Language (5.9.2) 스터디 저장소🖥️
 <br>
 
 ## 스터디 자료
-- 유데미 강의 : 누구나 따라할 수 있는 iOS 클론코딩 ( Feat . 컴공선배 라이징캠프 )
+- The Swift Programming Language (5.9.2) 공식문서
